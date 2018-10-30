@@ -20,5 +20,5 @@ Some code citation resources:
 
 ### Deliverable
 After you are done:
-1. Post a link to your forked repository on Canvas.
-2. After this assignment is due, you will review the code of two of your classmates using [Github issues](https://help.github.com/articles/managing-your-work-with-issues/).
+1. Post a link to your forked repository on Canvas.  
+~~2. After this assignment is due, you will review the code of two of your classmates using [Github issues](https://help.github.com/articles/managing-your-work-with-issues/).~~
